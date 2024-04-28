@@ -1,0 +1,14 @@
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\bin\Debug\net8.0\Deliverable1.exe
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\bin\Debug\net8.0\Deliverable1.deps.json
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\bin\Debug\net8.0\Deliverable1.runtimeconfig.json
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\bin\Debug\net8.0\Deliverable1.dll
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\bin\Debug\net8.0\Deliverable1.pdb
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.AssemblyInfoInputs.cache
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.AssemblyInfo.cs
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.csproj.CoreCompileInputs.cache
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.dll
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\refint\Deliverable1.dll
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.pdb
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.genruntimeconfig.cache
+C:\web_dev_backend\.NET Project\Deliverable1\Deliverable1\obj\Debug\net8.0\ref\Deliverable1.dll
